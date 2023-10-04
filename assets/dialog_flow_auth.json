@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "tushar-intellibot-pcda",
+  "private_key_id": "0ba5831f1a821665e03f056ce97abf93b627e0dd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDEFR3h1V3akl8E\niUR60utEaoCrXweLI2Q6OiHEMYz+Q0RPhZfU8lyjoHWAxhMXGd6JlpFKy2a3uRDd\nKoiTmQAv4emTfSaEAx2G1N/RSIJGUE3cFz7Wf0B1g1o8qoTOf6rbwJYRNN5ZY06j\nx8MUJ3PFN+kQvaNCIbmTm9HV2ndK8n2Kf5MXvm9yBN0UXCdirPtAKjhZhobNGaFM\njwLfJstRSUNWfB+Oog+rn3GnArksMHxsdHuvVyqigNk2ZKrR+V8/XOjHTt0fnshd\n3A2yuu6OokLPO+hZlCCBvduQFiK9cRtAg7qjlrHtLOFAxTjvsU9CYHEZqq8eXzJJ\nYSB2xb/TAgMBAAECggEAC2aY6rEPuG4rRSXADA4obL1uhshLNX1UzgfkP7aL1prN\npXwEhHalCUSCoH6jzIOOC1zsTLd/3O3PO7TF5SMPvjj57j/oFePiexz0eIQpQvJX\nXJUja7BRbKO7Auz9NM56fjV35D85MGRURbSPNKRImG50SCtmiylP03PLYw5FQl+1\n7vNSViqvwkYrulCIrWUo46Blj19TPBZM34ANL1aB8NcVLiLzMGJHD4ys88y+V2D6\nGB6ywhyVEVtUY0XPgefIBdo/u8izsXTK2Gmay2B+oKWBBM0jVLuRTUQgYgwWhDev\nhZjLu1xlNGjFff2gXj0NJXjrnSmarlnJT3vuCXzBGQKBgQDumTRgy0eJNednbQxF\nxcoKzKkYYcDmGGB4MLaZsDsJOgDf7bogWKZGQNGuAA4cr65L1rVBkURCx7BxKc2q\ng0cemUwAHBJtjD6AGxo+PcXeQlMWl1hG86q6sC52bcV8d5nP63n7YI/PwIrTtOoe\nYODzLOOcY0VCSinszzT35un02QKBgQDSYhwuzlPEi5jXNDXZOEHzQO4dzMhgA8uJ\nqfEnwTLRntKMYEAcWISKgxupntjJwmQPY+CxNjQDxfXx9/OPbQKKcKMxj1wMAAuT\n/t9KKt5sOm4IOK9R3MPOgCOw55DOBkXCoTxQTIZTJ8OM1w8c2eVlSVCNOXSEpfR2\neApDaDN+iwKBgAEcQ2sj5wxTbOVFU6ZLelo8g5jyc4RenqxQhbkHYe70Dyb7oz8d\nSoDPMmqd43LsumHt+N/6PhgVd9O+/w8JF16kFf92IfvSiEPuXFvny7DyHBLh125V\nGflOcpjof9/JarTWArZRx7mOytabY++KQeG/1rtWlu7tC27ns/ZnY7VZAoGAXh1x\nyiaXJsfkWfGLXV9jcXTMkRw5T2qjNTSHI2e0Wj4Ypp+wTn3y3RwF1f2vsaJ6rL/b\nlqtO3ZlDizmHBdSYXGJDPzqIzP2AMHbGYSGIWxZQfvEMzSxblBeS3+LXzrLTplwG\n5U02kiCpxGm44wk/K+5+UI8xZt3u3MianskQsD0CgYEA3K2meTTImj2xr0l+lQL/\nluBiCkPHcxuchMO4fP/Q07YWasmmI1ClCFf2BMTK/HPTuPFWwGfOf6aVbkp0TdIi\n0d0sYexM3IxwzSHRltvmBK9DmJD5PZQGdQJ5CoXhVE+JNJv1KOrSTzAUXHly+1KP\n/L8MENZVgrqdeSTgMM6J0W8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "flutterapp@tushar-intellibot-pcda.iam.gserviceaccount.com",
+  "client_id": "115939795839704939900",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/flutterapp%40tushar-intellibot-pcda.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
